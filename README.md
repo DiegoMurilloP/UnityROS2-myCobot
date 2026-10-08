@@ -59,7 +59,7 @@ ros2 run ros_tcp_endpoint default_server_endpoint --ros-args -p ROS_IP:=0.0.0.0
 ### 2. Abrir el proyecto en Unity
 
 ```bash
-git clone https://github.com/DiegoMurilloP/Practica2ROS2Unity.git
+git clone https://github.com/DiegoMurilloP/UnityROS2-myCobot.git
 ```
 
 1. Abre **Unity Hub** → *Add* → selecciona la carpeta clonada.
